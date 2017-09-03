@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DrinksApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="title_activity_logar">Login</string>
+    <string name="title_activity_registrar">Registrar</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Senha</string>
+    <string name="hint_name">Nome</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTRO</string>
+    <string name="btn_link_to_register">Registre-se agora!</string>
+    <string name="btn_link_to_login">Se ja é Registrado! Faça Login.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+</resources>
